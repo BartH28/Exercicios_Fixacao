@@ -1,0 +1,16 @@
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio gasolina\bin\Debug\net5.0\Exercicio gasolina.exe
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio gasolina\bin\Debug\net5.0\Exercicio gasolina.deps.json
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio gasolina\bin\Debug\net5.0\Exercicio gasolina.runtimeconfig.json
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio gasolina\bin\Debug\net5.0\Exercicio gasolina.runtimeconfig.dev.json
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio gasolina\bin\Debug\net5.0\Exercicio gasolina.dll
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio gasolina\bin\Debug\net5.0\ref\Exercicio gasolina.dll
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio gasolina\bin\Debug\net5.0\Exercicio gasolina.pdb
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio gasolina\obj\Debug\net5.0\Exercicio gasolina.csprojAssemblyReference.cache
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio gasolina\obj\Debug\net5.0\Exercicio gasolina.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio gasolina\obj\Debug\net5.0\Exercicio gasolina.AssemblyInfoInputs.cache
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio gasolina\obj\Debug\net5.0\Exercicio gasolina.AssemblyInfo.cs
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio gasolina\obj\Debug\net5.0\Exercicio gasolina.csproj.CoreCompileInputs.cache
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio gasolina\obj\Debug\net5.0\Exercicio gasolina.dll
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio gasolina\obj\Debug\net5.0\ref\Exercicio gasolina.dll
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio gasolina\obj\Debug\net5.0\Exercicio gasolina.pdb
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio gasolina\obj\Debug\net5.0\Exercicio gasolina.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio votos\bin\Debug\net5.0\Exercicio votos.exe
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio votos\bin\Debug\net5.0\Exercicio votos.deps.json
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio votos\bin\Debug\net5.0\Exercicio votos.runtimeconfig.json
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio votos\bin\Debug\net5.0\Exercicio votos.runtimeconfig.dev.json
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio votos\bin\Debug\net5.0\Exercicio votos.dll
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio votos\bin\Debug\net5.0\ref\Exercicio votos.dll
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio votos\bin\Debug\net5.0\Exercicio votos.pdb
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio votos\obj\Debug\net5.0\Exercicio votos.csprojAssemblyReference.cache
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio votos\obj\Debug\net5.0\Exercicio votos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio votos\obj\Debug\net5.0\Exercicio votos.AssemblyInfoInputs.cache
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio votos\obj\Debug\net5.0\Exercicio votos.AssemblyInfo.cs
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio votos\obj\Debug\net5.0\Exercicio votos.csproj.CoreCompileInputs.cache
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio votos\obj\Debug\net5.0\Exercicio votos.dll
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio votos\obj\Debug\net5.0\ref\Exercicio votos.dll
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio votos\obj\Debug\net5.0\Exercicio votos.pdb
+D:\Back-end senai\Exercicios de fixação\Condicionais\Exercicio votos\obj\Debug\net5.0\Exercicio votos.genruntimeconfig.cache
