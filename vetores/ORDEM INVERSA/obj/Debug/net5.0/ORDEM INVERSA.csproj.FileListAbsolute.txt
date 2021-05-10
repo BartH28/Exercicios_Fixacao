@@ -1,0 +1,16 @@
+D:\Back-end senai\Exercicios de fixação\vetores\ORDEM INVERSA\bin\Debug\net5.0\ORDEM INVERSA.exe
+D:\Back-end senai\Exercicios de fixação\vetores\ORDEM INVERSA\bin\Debug\net5.0\ORDEM INVERSA.deps.json
+D:\Back-end senai\Exercicios de fixação\vetores\ORDEM INVERSA\bin\Debug\net5.0\ORDEM INVERSA.runtimeconfig.json
+D:\Back-end senai\Exercicios de fixação\vetores\ORDEM INVERSA\bin\Debug\net5.0\ORDEM INVERSA.runtimeconfig.dev.json
+D:\Back-end senai\Exercicios de fixação\vetores\ORDEM INVERSA\bin\Debug\net5.0\ORDEM INVERSA.dll
+D:\Back-end senai\Exercicios de fixação\vetores\ORDEM INVERSA\bin\Debug\net5.0\ref\ORDEM INVERSA.dll
+D:\Back-end senai\Exercicios de fixação\vetores\ORDEM INVERSA\bin\Debug\net5.0\ORDEM INVERSA.pdb
+D:\Back-end senai\Exercicios de fixação\vetores\ORDEM INVERSA\obj\Debug\net5.0\ORDEM INVERSA.csprojAssemblyReference.cache
+D:\Back-end senai\Exercicios de fixação\vetores\ORDEM INVERSA\obj\Debug\net5.0\ORDEM INVERSA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end senai\Exercicios de fixação\vetores\ORDEM INVERSA\obj\Debug\net5.0\ORDEM INVERSA.AssemblyInfoInputs.cache
+D:\Back-end senai\Exercicios de fixação\vetores\ORDEM INVERSA\obj\Debug\net5.0\ORDEM INVERSA.AssemblyInfo.cs
+D:\Back-end senai\Exercicios de fixação\vetores\ORDEM INVERSA\obj\Debug\net5.0\ORDEM INVERSA.csproj.CoreCompileInputs.cache
+D:\Back-end senai\Exercicios de fixação\vetores\ORDEM INVERSA\obj\Debug\net5.0\ORDEM INVERSA.dll
+D:\Back-end senai\Exercicios de fixação\vetores\ORDEM INVERSA\obj\Debug\net5.0\ref\ORDEM INVERSA.dll
+D:\Back-end senai\Exercicios de fixação\vetores\ORDEM INVERSA\obj\Debug\net5.0\ORDEM INVERSA.pdb
+D:\Back-end senai\Exercicios de fixação\vetores\ORDEM INVERSA\obj\Debug\net5.0\ORDEM INVERSA.genruntimeconfig.cache

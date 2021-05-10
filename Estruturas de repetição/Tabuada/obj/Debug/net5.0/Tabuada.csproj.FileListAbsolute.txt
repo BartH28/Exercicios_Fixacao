@@ -1,0 +1,16 @@
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Tabuada\bin\Debug\net5.0\Tabuada.exe
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Tabuada\bin\Debug\net5.0\Tabuada.deps.json
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Tabuada\bin\Debug\net5.0\Tabuada.runtimeconfig.json
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Tabuada\bin\Debug\net5.0\Tabuada.runtimeconfig.dev.json
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Tabuada\bin\Debug\net5.0\Tabuada.dll
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Tabuada\bin\Debug\net5.0\ref\Tabuada.dll
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Tabuada\bin\Debug\net5.0\Tabuada.pdb
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Tabuada\obj\Debug\net5.0\Tabuada.csprojAssemblyReference.cache
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Tabuada\obj\Debug\net5.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfoInputs.cache
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfo.cs
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Tabuada\obj\Debug\net5.0\Tabuada.csproj.CoreCompileInputs.cache
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Tabuada\obj\Debug\net5.0\Tabuada.dll
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Tabuada\obj\Debug\net5.0\ref\Tabuada.dll
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Tabuada\obj\Debug\net5.0\Tabuada.pdb
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Tabuada\obj\Debug\net5.0\Tabuada.genruntimeconfig.cache

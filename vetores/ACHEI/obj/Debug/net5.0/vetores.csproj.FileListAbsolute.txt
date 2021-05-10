@@ -1,0 +1,16 @@
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\vetores\bin\Debug\net5.0\vetores.exe
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\vetores\bin\Debug\net5.0\vetores.deps.json
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\vetores\bin\Debug\net5.0\vetores.runtimeconfig.json
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\vetores\bin\Debug\net5.0\vetores.runtimeconfig.dev.json
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\vetores\bin\Debug\net5.0\vetores.dll
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\vetores\bin\Debug\net5.0\ref\vetores.dll
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\vetores\bin\Debug\net5.0\vetores.pdb
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\vetores\obj\Debug\net5.0\vetores.csprojAssemblyReference.cache
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\vetores\obj\Debug\net5.0\vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\vetores\obj\Debug\net5.0\vetores.AssemblyInfoInputs.cache
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\vetores\obj\Debug\net5.0\vetores.AssemblyInfo.cs
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\vetores\obj\Debug\net5.0\vetores.csproj.CoreCompileInputs.cache
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\vetores\obj\Debug\net5.0\vetores.dll
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\vetores\obj\Debug\net5.0\ref\vetores.dll
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\vetores\obj\Debug\net5.0\vetores.pdb
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\vetores\obj\Debug\net5.0\vetores.genruntimeconfig.cache

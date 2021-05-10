@@ -1,0 +1,16 @@
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Maior e menor\bin\Debug\net5.0\Maior e menor.exe
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Maior e menor\bin\Debug\net5.0\Maior e menor.deps.json
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Maior e menor\bin\Debug\net5.0\Maior e menor.runtimeconfig.json
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Maior e menor\bin\Debug\net5.0\Maior e menor.runtimeconfig.dev.json
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Maior e menor\bin\Debug\net5.0\Maior e menor.dll
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Maior e menor\bin\Debug\net5.0\ref\Maior e menor.dll
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Maior e menor\bin\Debug\net5.0\Maior e menor.pdb
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Maior e menor\obj\Debug\net5.0\Maior e menor.csprojAssemblyReference.cache
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Maior e menor\obj\Debug\net5.0\Maior e menor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Maior e menor\obj\Debug\net5.0\Maior e menor.AssemblyInfoInputs.cache
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Maior e menor\obj\Debug\net5.0\Maior e menor.AssemblyInfo.cs
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Maior e menor\obj\Debug\net5.0\Maior e menor.csproj.CoreCompileInputs.cache
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Maior e menor\obj\Debug\net5.0\Maior e menor.dll
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Maior e menor\obj\Debug\net5.0\ref\Maior e menor.dll
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Maior e menor\obj\Debug\net5.0\Maior e menor.pdb
+D:\Back-end senai\Exercicios de fixação\Estruturas de repetição\Maior e menor\obj\Debug\net5.0\Maior e menor.genruntimeconfig.cache
